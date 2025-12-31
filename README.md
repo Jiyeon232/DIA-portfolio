@@ -1,5 +1,3 @@
-# DIA-portfolio
-
 # DIA (Do It Anything)
 원데이 클래스 예약 플랫폼 백엔드 포트폴리오
 
